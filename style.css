@@ -1,0 +1,27 @@
+.title {
+    font-family: Arial;
+    border: solid black;
+    text-align: center;
+    background-color: wheat;
+}
+
+a:link {
+    color: brown;
+}
+
+a:visited {
+    color: forestgreen;
+}
+
+a:hover {
+    color: wheat;
+}
+
+a:active {
+    color: hotpink;
+}
+
+.recipe-list {
+    list-style-type: circle;
+}
+
